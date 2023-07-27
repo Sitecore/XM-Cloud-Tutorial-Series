@@ -100,6 +100,14 @@ Write-Host "Adding Windows hosts file entries..." -ForegroundColor Green
 Add-HostsEntry "xmcloudcm.localhost"
 Add-HostsEntry "www.sxastarter.localhost"
 
+
+##################
+# Create .env file
+##################
+Write-Host "Creating .env file." -ForegroundColor Green
+Copy-Item ".\.env.template" ".\.env" -Force
+
+
 ###############################
 # Generate scjssconfig
 ###############################
