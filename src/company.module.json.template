@@ -1,6 +1,5 @@
 {
     "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
-    "tags": [ "platform" ],
     "namespace": "Project.HeadlessSxaExample",
     "items": {
       "includes": [
