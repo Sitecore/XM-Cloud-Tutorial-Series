@@ -74,11 +74,14 @@ Languages:
         sitecore\Sebastian Winter
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1664fa2d-c084-4625-ade4-494333f2f12c"
+      Value: "f77d2c40-7fd2-41cc-b9ab-166fc038ab54"
+    - ID: "9ce73b35-34d3-49dc-bd5a-ce1e8267fda9"
+      Hint: ComponentDataSourceTemplates
+      Value: "{F3D25AFA-9AB6-492E-B06E-E3B585D195E8}"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Sebastian Winter
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230728T110205Z
+      Value: 20231114T150213Z
