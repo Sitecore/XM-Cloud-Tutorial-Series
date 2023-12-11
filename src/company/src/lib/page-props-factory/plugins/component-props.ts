@@ -1,7 +1,7 @@
-import { ComponentPropsService } from '@sitecore-jss/sitecore-jss-nextjs';
+import { ComponentPropsService, ComponentPropsError } from '@sitecore-jss/sitecore-jss-nextjs';
 import { SitecorePageProps } from 'lib/page-props';
 import { GetServerSidePropsContext, GetStaticPropsContext } from 'next';
-import { componentModule } from 'temp/componentFactory';
+import { moduleFactory } from 'temp/componentBuilder';
 import { Plugin, isServerSidePropsContext } from '..';
 
 class ComponentPropsPlugin implements Plugin {
@@ -21,14 +21,28 @@ class ComponentPropsPlugin implements Plugin {
       props.componentProps = await this.componentPropsService.fetchServerSideComponentProps({
         layoutData: props.layoutData,
         context,
-        componentModule,
+        moduleFactory,
       });
     } else {
       props.componentProps = await this.componentPropsService.fetchStaticComponentProps({
         layoutData: props.layoutData,
         context,
-        componentModule,
+        moduleFactory,
       });
+    }
+
+    const errors = Object.keys(props.componentProps)
+      .map((id) => {
+        const component = props.componentProps[id] as ComponentPropsError;
+
+        return component.error
+          ? `\nUnable to get component props for ${component.componentName} (${id}): ${component.error}`
+          : '';
+      })
+      .join('');
+
+    if (errors.length) {
+      throw new Error(errors);
     }
 
     return props;

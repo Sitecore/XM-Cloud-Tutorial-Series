@@ -7,6 +7,11 @@
                 "name": "DefaultRenderingHost",
                 "path": "/sitecore/system/Settings/Services/Rendering Hosts/Default",
                 "scope": "singleItem"
+            },
+            {
+                "name": "LocalRenderingHost",
+                "path": "/sitecore/system/Settings/Services/Rendering Hosts/Local",
+                "scope": "singleItem"
             }
         ]
     }

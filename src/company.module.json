@@ -70,14 +70,14 @@
               "allowedPushOperations": "CreateAndUpdate"
             },
             {
-              "path": "/Settings",
-              "scope": "ItemAndChildren",
-              "allowedPushOperations": "CreateAndUpdate"
-            },
-            {
               "path": "/Settings/Site Grouping",
               "scope": "ItemAndDescendants",
               "allowedPushOperations": "CreateOnly"
+            },
+            {
+              "path": "/Settings",
+              "scope": "ItemAndChildren",
+              "allowedPushOperations": "CreateAndUpdate"
             },
             {
               "path": "*", 

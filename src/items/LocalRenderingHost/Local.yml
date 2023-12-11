@@ -1,0 +1,41 @@
+﻿---
+ID: "afd54b30-d955-4757-8479-b4c4b4945168"
+Parent: "895e25c4-12b2-4b2c-8233-82f3b79eef53"
+Template: "bc71d442-3e4f-46ba-887c-746e54f9bb83"
+Path: /sitecore/system/Settings/Services/Rendering Hosts/Local
+SharedFields:
+- ID: "3121c257-53cf-464a-b736-98b418876057"
+  Hint: AppName
+  Value: Company Dev
+- ID: "e32c1801-79b3-4fc1-a9c4-3c6e6c2968ae"
+  Hint: ServerSideRenderingEngineApplicationUrl
+  Value: "http://rendering:3000"
+- ID: "fc76919b-0d7c-4732-865d-2af795fb38a4"
+  Hint: ServerSideRenderingEngineEndpointUrl
+  Value: "http://rendering:3000/api/editing/render"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231205T152902Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sebastian.winter@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sebastian.winter@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f03338a-27b5-42c9-b72f-b26cd1eb6761"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sebastian.winter@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231205T152927Z
