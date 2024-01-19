@@ -7,7 +7,12 @@
             "name": "templatesProject",
             "path": "/sitecore/templates/Project/Company Dev",
             "allowedPushOperations": "CreateUpdateAndDelete"
-        },      
+        },
+        {
+          "name": "modules",
+          "path": "/sitecore/system/Settings/Project/Company Dev",
+          "allowedPushOperations": "CreateUpdateAndDelete"
+      },      
         {
           "name": "projectMediaFolders",
           "path": "/sitecore/Media Library/Project/Company Dev",
