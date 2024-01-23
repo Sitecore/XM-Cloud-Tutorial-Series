@@ -1,4 +1,4 @@
-import * as FEAAS from "@sitecore-feaas/clientside/react"
+import * as FEAAS from '@sitecore-feaas/clientside/react';
 
 /* eg. src/components/MyComponent.js */
 
