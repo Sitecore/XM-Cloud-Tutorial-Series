@@ -1,4 +1,4 @@
-import * as FEAAS from "@sitecore-feaas/clientside/react"
+import * as FEAAS from "@sitecore-feaas/clientside/react";
 
 /**
  *  Make sure that you import your registered components in the rendering 
@@ -7,7 +7,7 @@ import * as FEAAS from "@sitecore-feaas/clientside/react"
  *  For more information handling this case, at the nextjs example repo: 
  * https://bitbucket.org/stylelabsdev/feaas-nextjs-example
  */
-import "./HelloWorld"
+import "./HelloWorld";
 
 export default (props: any) => {
     debugger;

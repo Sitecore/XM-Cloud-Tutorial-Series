@@ -21,6 +21,7 @@ export default function HelloWorld(props: {
   FEAAS.registerComponent(HelloWorld, {
       name: 'HelloWorld',
       description: 'Description of HelloWorld.',
+      group: 'custom test',
       required: [ /* List of properties that are required */ 
                   'hello'],
       properties: {
