@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/Company DEV/Basic Components/Text Teaser Folde
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: Applications/16x16/folder.png
+  Value: applications/16x16/folder.png
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
   Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
@@ -31,11 +31,11 @@ Languages:
         sitecore\Sebastian Winter
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e75f6e45-d2f9-4499-933e-e79a6fa79f63"
+      Value: "fe9142cf-d724-44bb-9c0f-1a5fabfd6f92"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Sebastian Winter
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231108T105320Z
+      Value: 20240422T101138Z
