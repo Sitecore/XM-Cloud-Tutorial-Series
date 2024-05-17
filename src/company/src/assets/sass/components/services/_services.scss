@@ -1,0 +1,26 @@
+.services .icon-box {
+    text-align: center;
+    padding: 70px 20px 80px 20px;
+    transition: all ease-in-out 0.3s;
+    background: #fff;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.services .icon-box h4 {
+    font-weight: 600;
+    margin: 10px 0 15px 0;
+    font-size: 22px;
+    font-family: "Roboto", sans-serif;
+}
+.services .icon-box h4 a {
+    color: #111;
+    transition: ease-in-out 0.3s;
+    text-decoration: none;
+}
+
+.services .icon-box p {
+    line-height: 24px;
+    font-size: 14px;
+    margin-bottom: 0;
+}
