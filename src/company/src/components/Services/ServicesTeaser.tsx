@@ -7,34 +7,29 @@ interface ServiceTeaserFields {
 }
 
 interface Services {
-  fields: ServiceFields
+  fields: ServiceFields;
 }
 
 type ServicesTeaserProps = {
   rendering: ComponentRendering & { params: ComponentParams };
   params: ComponentParams;
   fields: ServiceTeaserFields;
-}
+};
 
 export const Default = (props: ServicesTeaserProps): JSX.Element => {
-  const id = props.params.RenderingIdentifier;
-
   return (
     <section id="services" className="services section-bg">
       <div className="container" data-aos="fade-up">
-
         <div className="row">
-          {props.fields.Services.slice(0,6).map((service, idx) => {
-            const serviceProps : ServiceProps = {
+          {props.fields.Services.slice(0, 6).map((service, idx) => {
+            const serviceProps: ServiceProps = {
               params: props.params,
               fields: service.fields,
               id: idx,
             };
-            return <Service key={idx} {...serviceProps}></Service>
+            return <Service key={idx} {...serviceProps}></Service>;
           })}
-          
         </div>
-
       </div>
     </section>
   );
