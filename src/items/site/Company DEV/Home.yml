@@ -81,11 +81,17 @@ Languages:
               uid="{9BD61CEC-4C1E-4A6F-BA2C-B006375FABFA}"
               s:par="Styles=%7BF81E0FE0-2BAB-4682-8877-83D8AE932F4C%7D&amp;FieldNames=%7BDD8698E1-F52A-4F99-B99B-7477746E240C%7D&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B3DC91543-36F8-452A-BACD-F98B0C21BCF9%7D%7C%7B6F83979B-4C3F-4EEC-8C64-F8DA29D83961%7D%7C%7B959FDFBB-4691-4A17-816F-7A5330B8216A%7D%7C%7B271DE3B1-089F-4977-95EC-B5E51446FC01%7D%7C%7B1B189E02-FFC9-4ADC-84E5-D2AB5F6EC0FB%7D%7C%7B175CB6DA-CF89-4D56-888C-EB79F514D12F%7D%7C%7B94BCE55D-68FC-4020-A364-176EF1AAAFFB%7D%7C%7BF4BC7C4C-175F-4EA4-A6D9-EFCD92507276%7D%7C%7B7DF615F7-0A53-42E1-A164-2B36D6126314%7D%7C%7B1FEC5EDD-5489-43F1-8C19-A092206E130D%7D%7C%7BB706790E-8CB2-4A93-B341-6E7171734B61%7D" />
             <r
-              uid="{65B7E5D1-D658-4758-B540-102F58F74D73}"
+              uid="{82C9B26C-CE60-4129-A5EC-A6E65AAE6327}"
               p:after="r[@uid='{9BD61CEC-4C1E-4A6F-BA2C-B006375FABFA}']"
-              s:ds="e3345640-78ea-4d17-9ad9-d1b5794a30c2"
+              s:ds="5909d266-d416-4a1a-b432-eb2ec897b4cb"
+              s:id="{B0F23EEA-E078-45CC-9CAD-0B8C814ECB54}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B6C78D42D-D104-4FBB-8301-C4B3E1F7B158%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{1BC40EFD-66A9-4999-8B93-C251C780E29F}"
+              p:after="r[@uid='{82C9B26C-CE60-4129-A5EC-A6E65AAE6327}']"
               s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
-              s:par="ComponentName=Text%20Teaser&amp;ComponentConfiguration&amp;LibraryId=1DekpweEAoSFvDsn5XxQHz&amp;ComponentId=5BBVLMLj0_&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https%3A%2F%2Ffeaas.blob.core.windows.net&amp;ComponentInstanceId=bNIP1lHlzE3lU3k&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Text%20Teaser&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:par="ComponentName=Text%20Teaser&amp;ComponentConfiguration&amp;LibraryId=1DekpweEAoSFvDsn5XxQHz&amp;ComponentId=gva7PcalKN&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https%3A%2F%2Ffeaas.blob.core.windows.net&amp;ComponentInstanceId=BxIXB1JM6zcz3FD&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Text%20Teaser&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
               s:ph="headless-main" />
             <r
               uid="{0172D1C9-7143-4F27-917E-A4BFEEB7135F}"
@@ -123,11 +129,11 @@ Languages:
         sitecore\Sebastian Winter
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "44ac8751-ce85-4130-9e58-324c6fa5d932"
+      Value: "f602fe7d-3bb1-47bb-97e1-b369b1f19098"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Sebastian Winter
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231114T150639Z
+      Value: 20240515T094517Z

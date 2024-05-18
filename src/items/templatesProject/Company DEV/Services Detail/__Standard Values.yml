@@ -1,0 +1,26 @@
+﻿---
+ID: "c022a865-46cc-4d2f-9aab-1b740d2eb999"
+Parent: "fdfbc216-7717-4723-b5b0-f5df49d63c24"
+Template: "fdfbc216-7717-4723-b5b0-f5df49d63c24"
+Path: /sitecore/templates/Project/Company DEV/Services Detail/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240514T143005Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "781a68a5-83f6-4938-abd7-b677e077c4f5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240514T143016Z
+    - ID: "e58f4e7a-57b3-4214-8e72-b9eda6ddc270"
+      Hint: Teaser Heading
+      Value: $name

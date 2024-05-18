@@ -1,12 +1,13 @@
 ﻿---
-ID: "8cc3525d-1dd2-4daf-bad6-224877f93a14"
-Parent: "d73f22ff-d4f6-461e-98d0-434d0d9cacb5"
-Template: "bed31d6f-d968-45a9-b54e-12d7f977d861"
-Path: /sitecore/system/Settings/Project/Company Dev/Basic Components/Basic Components Headless Site Setup
+ID: "6c78d42d-d104-4fbb-8301-c4b3e1f7b158"
+Parent: "07b2dde1-dda1-4d3f-8cb7-4e9602c12a5f"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Company DEV/Company DEV/Presentation/Headless Variants/Services Teaser/Default
+BranchID: "7809677e-cfd4-4ffe-b4d2-23c07b9ddeaa"
 SharedFields:
-- ID: "40deee2f-7595-40bd-b2c9-51f9e2346100"
-  Hint: Dependencies
-  Value: "{24EC97FA-F22A-404E-BC39-9B0673D46271}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{719502AD-1710-4E67-889D-7CC63EB3FB66}"
 Languages:
 - Language: en
   Versions:
@@ -14,7 +15,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231107T143121Z
+      Value: 20240514T131947Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -25,14 +26,11 @@ Languages:
         sitecore\Sebastian Winter
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "02537841-687a-4b7b-a422-8bb267eae97b"
+      Value: "3b7879b9-1a74-4eba-93c0-118c77fc1167"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Sebastian Winter
-    - ID: "c202067e-7fab-4606-afb4-e76df2185ddc"
-      Hint: Name
-      Value: Basic Components
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240307T105010Z
+      Value: 20240514T131947Z
