@@ -1,15 +1,18 @@
 ﻿---
-ID: "16f048b4-bf3f-43c7-8699-268874c85ddd"
-Parent: "8197c6d3-d915-4051-bbd5-e482fbd90332"
+ID: "468fd09a-c7b7-45f4-978f-478b172f0eb7"
+Parent: "3d6e6526-86cf-44d1-b1bd-297e88fb47a0"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/Company DEV/Services Detail/Teaser/Teaser Description
+Path: /sitecore/templates/Project/Company DEV/Services Detail/Teaser Icons/Icon
 SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "query:/sitecore/system/Settings/Project/Company Dev/Services/Service Icons/Box Icons/*"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: "Single-Line Text"
+  Value: Droplink
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 200
+  Value: 300
 Languages:
 - Language: en
   Versions:
@@ -17,7 +20,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240513T133522Z
+      Value: 20240612T145918Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -28,11 +31,11 @@ Languages:
         sitecore\Sebastian Winter
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "def53228-9c48-4764-8e45-c9964d1e6d7b"
+      Value: "2b8e4958-c090-4faa-9887-036a5a167c36"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Sebastian Winter
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240513T133522Z
+      Value: 20240612T151900Z

@@ -6,7 +6,7 @@ Path: /sitecore/layout/Renderings/Project/Company DEV/Services/Services Teaser
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
-  Value: Services Teaser
+  Value: ServicesTeaser
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: SXA_MDI/16x16/Promo.png
@@ -27,7 +27,7 @@ SharedFields:
   Value: "query:$site/*[@@name='Data']/*[@@templatename='Services Teaser Folder']|query:$sharedSites/*[@@name='Data']/*[@@templatename='Services Teaser Folder']"
 - ID: "c39a90ce-0035-41bb-90f6-3c8a6ea87797"
   Hint: AddFieldEditorButton
-  Value: 0
+  Value: 
 - ID: "e829c217-5e94-4306-9c48-2634b094fdc2"
   Hint: OtherProperties
   Value: IsRenderingsWithDynamicPlaceholders=true
@@ -74,14 +74,14 @@ Languages:
         sitecore\JssImport
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bac3282c-b318-4cd7-9541-f362cc942f18"
+      Value: "03c006e5-5086-4ee5-8cb0-774b24bcd048"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Sebastian Winter
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240513T153503Z
+      Value: 20240522T122115Z
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
