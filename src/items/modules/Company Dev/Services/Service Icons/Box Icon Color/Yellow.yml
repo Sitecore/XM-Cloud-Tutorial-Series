@@ -1,0 +1,29 @@
+﻿---
+ID: "2cdc0e35-207e-4acf-86c8-7440933e6b77"
+Parent: "5753fb41-3a0a-4d53-97e6-79e629aad568"
+Template: "2cd0a3f3-c17a-40e8-9335-ef22d638d3fc"
+Path: /sitecore/system/Settings/Project/Company Dev/Services/Service Icons/Box Icon Color/Yellow
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240611T122221Z
+    - ID: "764d2e1a-ef74-4cd3-85e0-5b5f3a25fc6f"
+      Hint: Name
+      Value: Yellow
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "39b348cf-5cef-4caa-a8e1-447dbe593d02"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240611T122225Z
+    - ID: "fb130efa-caff-4c70-86e8-cf04fe807539"
+      Hint: ClassName
+      Value: "iconbox-yellow"

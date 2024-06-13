@@ -1,0 +1,29 @@
+﻿---
+ID: "bcb98f5d-3f7a-476d-990e-54b90153101d"
+Parent: "a8198d3e-2b6e-4602-b46e-24e7de948a09"
+Template: "a7d48d06-2871-4b78-b5b1-16fa9dac9e07"
+Path: /sitecore/system/Settings/Project/Company Dev/Services/Service Icons/Box Icons/Sheet
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1904236c-d81a-497d-af14-7964b9fe3ff2"
+      Hint: ClassName
+      Value: "bx-file"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240611T122622Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "85da9cc1-e248-489b-b793-829f959b3aca"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "d5e8fe23-ed37-41fa-aafd-0391c45da03b"
+      Hint: Name
+      Value: Sheet
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240611T122628Z

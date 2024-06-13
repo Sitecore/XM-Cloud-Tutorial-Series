@@ -1,0 +1,37 @@
+﻿---
+ID: "44101873-2087-484d-b034-0b29428b9266"
+Parent: "61e9b276-78b2-4758-ad2a-6d15434ed1b7"
+Template: "61e9b276-78b2-4758-ad2a-6d15434ed1b7"
+Path: /sitecore/templates/Project/Company DEV/Services/Icon Templates/Box Icon Color Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {2CD0A3F3-C17A-40E8-9335-EF22D638D3FC}
+    {61E9B276-78B2-4758-AD2A-6D15434ED1B7}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240611T114615Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "279fbb73-4846-48cb-97fa-28a20d05abe8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240611T114840Z

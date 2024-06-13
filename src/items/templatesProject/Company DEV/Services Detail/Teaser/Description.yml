@@ -1,15 +1,15 @@
 ﻿---
-ID: "e58f4e7a-57b3-4214-8e72-b9eda6ddc270"
+ID: "16f048b4-bf3f-43c7-8699-268874c85ddd"
 Parent: "8197c6d3-d915-4051-bbd5-e482fbd90332"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/Company DEV/Services Detail/Teaser/Teaser Heading
+Path: /sitecore/templates/Project/Company DEV/Services Detail/Teaser/Description
 SharedFields:
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: "Single-Line Text"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 100
+  Value: 200
 Languages:
 - Language: en
   Versions:
@@ -28,7 +28,7 @@ Languages:
         sitecore\Sebastian Winter
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e04fed56-cbb0-45c7-aaad-5d83946d64ef"
+      Value: "def53228-9c48-4764-8e45-c9964d1e6d7b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |

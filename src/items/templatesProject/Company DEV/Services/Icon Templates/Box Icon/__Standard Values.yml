@@ -1,18 +1,8 @@
 ﻿---
-ID: "0fa471f9-1363-4982-b9a8-c4e962c6157c"
-Parent: "8197c6d3-d915-4051-bbd5-e482fbd90332"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/Company DEV/Services Detail/Teaser/Teaser Image
-SharedFields:
-- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
-  Hint: Source
-  Value: "query:$siteMedia"
-- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
-  Hint: Type
-  Value: Image
-- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
-  Hint: __Sortorder
-  Value: 300
+ID: "dd2c92c4-7ed9-4cb3-a233-0fc8be7ac471"
+Parent: "a7d48d06-2871-4b78-b5b1-16fa9dac9e07"
+Template: "a7d48d06-2871-4b78-b5b1-16fa9dac9e07"
+Path: /sitecore/templates/Project/Company DEV/Services/Icon Templates/Box Icon/__Standard Values
 Languages:
 - Language: en
   Versions:
@@ -20,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240513T133522Z
+      Value: 20240611T121943Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -31,11 +21,14 @@ Languages:
         sitecore\Sebastian Winter
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "83100ff6-6b8b-41b3-9223-bf43b2725c44"
+      Value: "36e0779c-5a3b-4aa6-bef5-dd740871fd1f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Sebastian Winter
+    - ID: "d5e8fe23-ed37-41fa-aafd-0391c45da03b"
+      Hint: Name
+      Value: $name
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240513T133522Z
+      Value: 20240611T121947Z

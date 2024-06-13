@@ -1,0 +1,37 @@
+﻿---
+ID: "e0324f0b-148b-4b23-b806-07bcc9cceaeb"
+Parent: "5060c72b-f2c8-44ca-b038-417fa89f5c73"
+Template: "5060c72b-f2c8-44ca-b038-417fa89f5c73"
+Path: /sitecore/templates/Project/Company DEV/Services/Icon Templates/Box Icon Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {A7D48D06-2871-4B78-B5B1-16FA9DAC9E07}
+    {5060C72B-F2C8-44CA-B038-417FA89F5C73}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240611T114615Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0e1cdb16-0a03-47f0-8b59-da12f04432af"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240611T114721Z
