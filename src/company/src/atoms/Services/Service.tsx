@@ -11,8 +11,8 @@ export interface ServiceFields {
   Heading: Field<string>;
   Description: Field<string>;
   Image: ImageField;
-  Icon: {fields:{ClassName:{value:string}}};
-  Color: {fields:{ClassName:{value:string}}};
+  Icon: { fields: { ClassName: { value: string } } };
+  Color: { fields: { ClassName: { value: string } } };
 }
 
 export type ServiceProps = {
