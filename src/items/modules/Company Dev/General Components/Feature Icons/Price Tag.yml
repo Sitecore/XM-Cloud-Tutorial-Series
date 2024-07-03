@@ -1,0 +1,37 @@
+﻿---
+ID: "ef78c165-9c35-4bce-a602-8e28c3976dd7"
+Parent: "3077388c-cfe9-4191-b4f2-0902e9858f72"
+Template: "7c7b9f65-3f8c-4388-9c82-19f56e677d52"
+Path: /sitecore/system/Settings/Project/Company Dev/General Components/Feature Icons/Price Tag
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240628T114627Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93473c38-7b1e-4ff2-ae56-16364f16e840"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "d4c58440-879b-4020-b242-0482fda89d5a"
+      Hint: Class
+      Value: "ri-price-tag-2-line"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240628T114638Z
+    - ID: "e5f25e2f-c395-4927-8321-d15459eb53c1"
+      Hint: HexColor
+      Value: #4233ff

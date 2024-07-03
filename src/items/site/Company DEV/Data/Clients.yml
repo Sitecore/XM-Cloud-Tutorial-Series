@@ -1,0 +1,23 @@
+﻿---
+ID: "8c3a7875-7cab-4603-aefa-0a5bf5ae580a"
+Parent: "bb973209-e8c9-4d6b-8595-5ea8b8c0439d"
+Template: "5c749a1d-7219-46d7-9168-a86040dfdeb2"
+Path: /sitecore/content/Company DEV/Company DEV/Data/Clients
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240626T134906Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b3ec1e18-5f05-4e76-ba4f-86c14139eb4d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240626T134906Z

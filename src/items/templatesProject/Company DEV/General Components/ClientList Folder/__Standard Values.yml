@@ -1,0 +1,33 @@
+﻿---
+ID: "ba81681c-d98c-41e2-81e1-2702e216cdc5"
+Parent: "2aee7eef-a598-4b75-b050-011777b66f1c"
+Template: "2aee7eef-a598-4b75-b050-011777b66f1c"
+Path: /sitecore/templates/Project/Company DEV/General Components/ClientList Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {739A919A-A022-4FDD-B8BB-62320A506A18}
+    {2AEE7EEF-A598-4B75-B050-011777B66F1C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9479f9bc-9747-448c-99a4-4a2036a001f1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240626T124703Z
