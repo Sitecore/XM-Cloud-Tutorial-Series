@@ -3,7 +3,7 @@ import { ComponentParams, TextField, Text as JSSText } from '@sitecore-jss/sitec
 
 export interface FeatureFields {
   Name: TextField;
-  Icon: {fields: {Class: { value: string }, HexColor: { value: string }}};
+  Icon: { fields: { Class: { value: string }; HexColor: { value: string } } };
 }
 export interface FeatureProps {
   params: ComponentParams;
@@ -17,8 +17,12 @@ export const Feature = (props: FeatureProps): JSX.Element => {
   return (
     <div className="col-lg-3 col-md-4">
       <div className="icon-box">
-        <i className={`${label}`} style={{color: color,}}></i>
-        <h3><a href=""><JSSText field={props.fields.Name}/></a></h3>
+        <i className={`${label}`} style={{ color: color }}></i>
+        <h3>
+          <a href="">
+            <JSSText field={props.fields.Name} />
+          </a>
+        </h3>
       </div>
     </div>
   );
