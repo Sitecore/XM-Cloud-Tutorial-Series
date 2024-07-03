@@ -1,0 +1,23 @@
+﻿---
+ID: "175f2a7e-7090-4ff6-acbf-415ed2092392"
+Parent: "bb973209-e8c9-4d6b-8595-5ea8b8c0439d"
+Template: "23ac4f07-88c8-48a7-a175-34b10458c45d"
+Path: /sitecore/content/Company DEV/Company DEV/Data/Employees
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240626T134907Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a6e04818-4907-4896-923e-4d729345b7d0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240626T134907Z

@@ -24,6 +24,10 @@ SharedFields:
     {D7EEAF4D-2B58-4029-B141-844221565EF0}
     {ED6C4A9B-E3DC-413A-BEF6-337ABB7FD2C7}
     {D6DEC971-A175-4D19-9899-995898F84938}
+    {088AB9E9-AB50-4A9C-8F77-8BCEBDB15FB9}
+- ID: "2b2fe9fd-78a6-40eb-b9f9-28409d8d3700"
+  Hint: SitemapMediaItems
+  Value: "{F24A868D-A486-4B35-82AE-8E91AA8C83D5}"
 - ID: "33d9005e-1f71-415f-b107-53b965c3b037"
   Hint: SiteMediaLibrary
   Value: "{FF181271-EE2D-4EB0-BB00-BD8E7F6AA56C}"
@@ -48,11 +52,11 @@ Languages:
         sitecore\Sebastian Winter
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "affb9139-114b-48de-a162-73e6a1c18049"
+      Value: "a0f112d7-4683-4455-9870-65ebb0809ad8"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Sebastian Winter
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240514T131948Z
+      Value: 20240626T134917Z

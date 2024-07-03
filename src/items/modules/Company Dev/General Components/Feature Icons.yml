@@ -1,0 +1,23 @@
+﻿---
+ID: "3077388c-cfe9-4191-b4f2-0902e9858f72"
+Parent: "dbcaea0c-5f4f-468a-924d-cf1817468c20"
+Template: "1d94efe2-2667-4cb9-819d-25b75d2d0449"
+Path: /sitecore/system/Settings/Project/Company Dev/General Components/Feature Icons
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240628T104924Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4edb6781-b36a-40a6-8806-93513cc6fdc2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240628T104924Z

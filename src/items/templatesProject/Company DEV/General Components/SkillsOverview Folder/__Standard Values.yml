@@ -1,0 +1,33 @@
+﻿---
+ID: "b04e23c8-8a3e-42b1-ac40-9e9f8efacae3"
+Parent: "2d571af6-b778-4c4d-b2e9-abb15bee25e1"
+Template: "2d571af6-b778-4c4d-b2e9-abb15bee25e1"
+Path: /sitecore/templates/Project/Company DEV/General Components/SkillsOverview Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {10CDCAAF-1807-4B53-ADD1-B961A963C398}
+    {2D571AF6-B778-4C4D-B2E9-ABB15BEE25E1}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6f088f1f-dd4f-45c9-978e-e0ae86832b47"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240626T125048Z

@@ -1,0 +1,34 @@
+﻿---
+ID: "b0a203e9-6c25-4d37-b20c-bc7fa203ea1d"
+Parent: "ba91301d-8802-4276-8778-582796b2aa9f"
+Template: "ba91301d-8802-4276-8778-582796b2aa9f"
+Path: /sitecore/templates/Project/Company DEV/General Components/Feature/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240626T134057Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8c737fb9-1d0a-4588-a9bd-07194e6fe974"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "c11d5051-6dad-4cc5-9e17-d69cedbfcaae"
+      Hint: Name
+      Value: $name
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240626T134101Z

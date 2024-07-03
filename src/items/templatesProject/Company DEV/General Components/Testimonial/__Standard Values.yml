@@ -1,0 +1,34 @@
+﻿---
+ID: "5967d572-3fe4-4b25-925a-ecd52f5ed662"
+Parent: "f108d164-c7f7-4c64-81e4-01c2068997de"
+Template: "f108d164-c7f7-4c64-81e4-01c2068997de"
+Path: /sitecore/templates/Project/Company DEV/General Components/Testimonial/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240626T133726Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a961793c-1e94-474a-824c-51bf77b7da84"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Sebastian Winter
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240626T133730Z
+    - ID: "e909886d-5b81-422a-b694-4dee6062fc4f"
+      Hint: Name
+      Value: $name
