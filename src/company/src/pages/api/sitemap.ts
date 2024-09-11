@@ -4,9 +4,9 @@ import {
   GraphQLSitemapXmlService,
   AxiosResponse,
 } from '@sitecore-jss/sitecore-jss-nextjs';
-import { getPublicUrl } from '@sitecore-jss/sitecore-jss-nextjs/utils';
 import { siteResolver } from 'lib/site-resolver';
 import config from 'temp/config';
+import clientFactory from 'lib/graphql-client-factory';
 
 const ABSOLUTE_URL_REGEXP = '^(?:[a-z]+:)?//';
 
@@ -24,8 +24,7 @@ const sitemapApi = async (
 
   // create sitemap graphql service
   const sitemapXmlService = new GraphQLSitemapXmlService({
-    endpoint: config.graphQLEndpoint,
-    apiKey: config.sitecoreApiKey,
+    clientFactory,
     siteName: site.name,
   });
 
@@ -56,13 +55,15 @@ const sitemapApi = async (
     return res.redirect('/404');
   }
 
+  const reqtHost = req.headers.host;
+  const reqProtocol = req.headers['x-forwarded-proto'] || 'https';
   const SitemapLinks = sitemaps
     .map((item) => {
       const parseUrl = item.split('/');
       const lastSegment = parseUrl[parseUrl.length - 1];
 
       return `<sitemap>
-        <loc>${getPublicUrl()}/${lastSegment}</loc>
+        <loc>${reqProtocol}://${reqtHost}/${lastSegment}</loc>
       </sitemap>`;
     })
     .join('');
